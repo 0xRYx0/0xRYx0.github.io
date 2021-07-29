@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rakan.pro
 
 You can use the [editor on GitHub](https://github.com/0xRYx0/Rakan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
